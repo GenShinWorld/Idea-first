@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Idea-first:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Idea_first_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Idea-first/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Idea-first" />
+        </element>
+      </element>
+      <element id="directory" name="folder" />
+    </root>
+  </artifact>
+</component>
